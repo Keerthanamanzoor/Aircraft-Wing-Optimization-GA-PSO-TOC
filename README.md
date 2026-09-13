@@ -87,12 +87,3 @@ Master of Science in Artificial Intelligence
 Ajman University, UAE
 
 
-### ⚠️ Important
-
-I intentionally **didn't put specific numerical claims** like "30% fuel reduction" or a particular L/D value in this README yet. We should only add those after checking the actual outputs in your `Aircraft_Wing_Optimization.ipynb`.
-
-Then:
-
-**Commit changes → `Improve aircraft wing optimization documentation` → Commit directly to `main` → Commit changes.**
-
-After committing, send me the repository screenshot. Then we'll verify the README and notebook b
