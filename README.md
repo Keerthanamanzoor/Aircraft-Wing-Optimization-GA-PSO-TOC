@@ -49,6 +49,29 @@ The optimization results are analyzed using:
 - Convergence behavior
 - Final optimized wing parameters
 
+## Comparative Analysis
+
+The project includes a comparative analysis of three optimization algorithms:
+
+- Genetic Algorithm (GA)
+- Particle Swarm Optimization (PSO)
+- Tornado Optimization with Coriolis (TOC)
+
+The algorithms were evaluated across 23 benchmark functions (F1–F23) using 30 independent runs for each function.
+
+The following statistical measures were used for comparison:
+
+- Best fitness
+- Mean fitness
+- Worst fitness
+- Standard deviation
+
+The comparative analysis is available in:
+
+`Comparative_Analysis_GA_PSO_TOC.ipynb`
+
+The notebook generates a comparative results table for analyzing the performance and consistency of GA, PSO, and TOC across the benchmark functions.
+
 ## Technologies
 
 - Python
