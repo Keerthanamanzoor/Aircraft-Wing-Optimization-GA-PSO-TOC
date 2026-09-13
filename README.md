@@ -72,6 +72,10 @@ The comparative analysis is available in:
 
 The notebook generates a comparative results table for analyzing the performance and consistency of GA, PSO, and TOC across the benchmark functions.
 
+The summarized comparison results are also provided in:
+
+`Comparative_Analysis_GA_PSO_TOC.xlsx`
+
 ## Technologies
 
 - Python
